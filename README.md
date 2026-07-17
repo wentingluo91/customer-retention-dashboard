@@ -55,12 +55,14 @@ The dashboard combines descriptive analysis with cross-analysis to identify rela
 
 | File | Description |
 |------|-------------|
-| `Customer_Retention_Dashboard.pbix` | Power BI dashboard |
-| `Customer_Retention_Dashboard.pdf` | Dashboard report (PDF) |
-| `Churn_Dataset.xlsx` | Source dataset |
+| `README.md` | Project overview and documentation |
 | `01_Executive_Overview.jpg` | Dashboard overview |
 | `02_Churn_Rate_Analysis.jpg` | Churn rate analysis |
 | `03_Cross_Analysis.jpg` | Cross-analysis dashboard |
+| `Churn_Dataset.xlsx` | Source dataset |
+| `Customer_Retention_Dashboard.pbix` | Power BI dashboard |
+| `Customer_Retention_Dashboard.pdf` | Dashboard report (PDF) |
+
 
 ---
 
